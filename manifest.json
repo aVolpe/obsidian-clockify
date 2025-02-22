@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "clockify-obsidian",
+	"name": "Clockify Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Integrates clockify to your obsidian workflow",
+	"author": "Arturo Volpe",
+	"authorUrl": "https://www.volpe.com.py",
 	"isDesktopOnly": false
 }
